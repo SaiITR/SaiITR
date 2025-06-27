@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#61dafb;">Saiteja</span></h1>
 
-<h3 align="center">🚀 MERN Stack Developer from Hyderabad | UI/UX Aficionado</h3>
+<h3 align="center">🚀 MERN Stack Developer from Hyderabad</h3>
 ---
 
 ## 🧑‍💻 About Me
@@ -8,11 +8,6 @@
 - 🔥 Full-stack developer specialized in the **MERN stack**
 - 🌍 Based in **Hyderabad, India**
 
----
-
-## 🛠️ Tech Toolbox
-
----
 
 ## ⚡ Featured Skills
 
