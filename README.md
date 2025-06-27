@@ -1,8 +1,13 @@
+<!-- Hacker-style Header Animation -->
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="100%" alt="Hacker typing animation" />
+</p>
+
 # 👨‍💻 Sai Teja Goli | `MERN Stack Developer`
+
 ```bash
-> whoami
-MERN Developer | JavaScript Ninja | Open Source Enthusiast | Based in Hyderabad, India
-> cat stack.txt
-🟢 Node.js     🧠 Express.js   🟩 MongoDB     🔵 React.js
-🟨 JavaScript  🟣 Redux        🐍 Python      📦 NPM/Yarn
-🐧 Linux       🐳 Docker       ⚙️ Git         🌐 REST & GraphQL APIs
+> Initializing...
+> Loading profile: saitejaGoli
+> Access granted ✅
+
+MERN Developer | JavaScript Enthusiast | Based in Hyderabad, India
