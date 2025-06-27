@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#61dafb;">Saiteja</span></h1>
 
 <h3 align="center">🚀 MERN Stack Developer from Hyderabad</h3>
----
 
 ## 🧑‍💻 About Me
 
@@ -17,10 +16,9 @@
 - 📤 Email & Document Parsing (Graph API, Azure OCR)
 - 🧠 AI-powered structured data extraction
 
----
+
 
 ## 📬 Reach Me
-
 ```bash
 📫 Email: saiteja@example.com
 📍 Location: Hyderabad, India
