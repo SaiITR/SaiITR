@@ -13,12 +13,9 @@
 - ✅ Full-stack Web Development (React + Node + MongoDB)
 - 🎯 Redux & WebSocket-based live UI updates
 - ✨ Tailwind/MUI-based reusable components
-- 📤 Email & Document Parsing (Graph API, Azure OCR)
-- 🧠 AI-powered structured data extraction
-
 
 
 ## 📬 Reach Me
 ```bash
-📫 Email: saiteja@example.com
+📫 Email: saitejagoli111@gmail.com
 📍 Location: Hyderabad, India
